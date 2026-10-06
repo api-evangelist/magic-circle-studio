@@ -48,7 +48,7 @@ x-enrichment:
   pass: local-v1
 specificationVersion: '0.23'
 created: '2026-07-17'
-modified: '2026-07-20'
+modified: '2026-10-06'
 tags:
 - Company
 - Games
@@ -59,6 +59,8 @@ tags:
 - Entertainment
 apis: []
 common:
+- url: https://magiccircle.studio/blog/
+  type: Blog
 - type: DomainSecurity
   url: security/magic-circle-studio-domain-security.yml
 - type: Website
